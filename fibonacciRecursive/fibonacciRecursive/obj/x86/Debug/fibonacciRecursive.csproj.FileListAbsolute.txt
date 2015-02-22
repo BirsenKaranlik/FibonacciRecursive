@@ -1,0 +1,4 @@
+C:\Users\Birsen\Desktop\algoritma analiz\fibonacciRecursive\fibonacciRecursive\bin\Debug\fibonacciRecursive.exe
+C:\Users\Birsen\Desktop\algoritma analiz\fibonacciRecursive\fibonacciRecursive\bin\Debug\fibonacciRecursive.pdb
+C:\Users\Birsen\Desktop\algoritma analiz\fibonacciRecursive\fibonacciRecursive\obj\x86\Debug\fibonacciRecursive.exe
+C:\Users\Birsen\Desktop\algoritma analiz\fibonacciRecursive\fibonacciRecursive\obj\x86\Debug\fibonacciRecursive.pdb
